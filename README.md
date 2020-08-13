@@ -32,7 +32,7 @@ $ cd crypto-app</code></pre>
 <table style="border-collapse: collapse; width: 100%;" border="0">
   <tbody>
     <tr>
-      <td style="width: 50%;"><img src="https://github.com/NKVitug/Crypto/blob/master/BTC-UI.JPG?raw=true" alt="System-Monitor" width="700" height="500"></td>
+      <td style="width: 50%;"><img src="https://github.com/NKVitug/Crypto/blob/master/BTC-UI.JPG?raw=true" alt="System-Monitor" width="500" height="500"></td>
       </td>
     </tr>
   </tbody>
