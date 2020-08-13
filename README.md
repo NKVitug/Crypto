@@ -27,5 +27,14 @@ $ cd crypto-app</code></pre>
     <pre class="language-markup"><code>$ npm start</code></pre>
   </li>
 </ol>
-<p><strong>Author Credit:&nbsp;</strong><em>DesignCourse<br /></em><strong>Youtube Link: <a href="https://www.youtube.com/watch?v=2RxHQoiDctI">https://www.youtube.com/watch?v=2RxHQoiDctI</a></strong></p>
-<p>&nbsp;</p>
+<p><strong>Author Credit:&nbsp;</strong><em>DesignCourse<br /></em><strong>Youtube Video Link: <a href="https://www.youtube.com/watch?v=2RxHQoiDctI">https://www.youtube.com/watch?v=2RxHQoiDctI</a></strong></p>
+<p><strong>USER INTERFACE</strong></p>
+<table style="border-collapse: collapse; width: 100%;" border="0">
+  <tbody>
+    <tr>
+      <td style="width: 50%;"><img src="https://github.com/NKVitug/Crypto/blob/master/BTC-UI.JPG?raw=true" alt="System-Monitor" width="500" height="700"></td>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
