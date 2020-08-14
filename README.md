@@ -1,5 +1,5 @@
 <h1><strong>CRYPTO&nbsp; </strong></h1>
-<p style="text-align: justify;">A Bitcoin App that uses native desktop notifications to alert the user whenever the price of Bitcoin exceeds the user's specific input.</p>
+<p style="text-align: justify;">A Bitcoin App that uses native desktop notifications to alert the user whenever the price of Bitcoin goes beyond the particular threshold.</p>
 <p style="text-align: justify;">This project application is made using the Electron framework with the use of the following web tools: HTML, CSS, and JavaScript.&nbsp;</p>
 <p style="text-align: justify;"><strong>Requirements:</strong></p>
 <ul>
